@@ -1,8 +1,8 @@
 package Recipe_Realm.Project.dto;
 
-import Project.Recipe_Realm.enums.Role;
-import Project.Recipe_Realm.model.Comment;
-import Project.Recipe_Realm.model.Recipe;
+import Recipe_Realm.Project.enums.Role;
+import Recipe_Realm.Project.model.Comment;
+import Recipe_Realm.Project.model.Recipe;
 import lombok.Data;
 
 import java.time.Instant;
